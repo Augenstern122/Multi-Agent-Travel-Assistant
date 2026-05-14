@@ -22,8 +22,8 @@
 - **框架**: Vue 3 + TypeScript
 - **构建工具**: Vite
 - **UI组件库**: Ant Design Vue
-- **地图服务**: 高德地图 JavaScript API
-- **HTTP客户端**: Axios
+- **地图服务**: 高德地图  API
+  
 
 ##  项目结构
 
